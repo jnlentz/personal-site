@@ -1,0 +1,11 @@
+@import "src/colors.scss";
+
+.appHeader {
+    height: 10vh;
+    background-color: $cf-blue;
+}
+
+.appContent {
+    height: 90vh;
+    background-color: $dark-blue;
+}
